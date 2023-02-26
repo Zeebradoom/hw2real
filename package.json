@@ -1,7 +1,6 @@
 {
   "name": "hw2real",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,5 +13,14 @@
   "license": "ISC",
   "dependencies": {
     "openzeppelin-solidity": "3.4.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeebradoom/hw2real.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zeebradoom/hw2real/issues"
+  },
+  "homepage": "https://github.com/Zeebradoom/hw2real#readme",
+  "description": ""
 }
